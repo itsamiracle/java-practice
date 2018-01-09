@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9bd0cc-7118-4d0d-a91b-54165cda656b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/src/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Maskify.java" afterPath="$PROJECT_DIR$/src/basic/Maskify.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PopulationGrowthCalculation.java" afterPath="$PROJECT_DIR$/src/basic/PopulationGrowthCalculation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/README.md" afterPath="$PROJECT_DIR$/src/basic/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,23 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Maskify.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Maskify.java">
+      <file leaf-file-name="Maskify.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basic/Maskify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#939#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopulationGrowthCalculation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PopulationGrowthCalculation.java">
+      <file leaf-file-name="PopulationGrowthCalculation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basic/PopulationGrowthCalculation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="85">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/Maskify.java" />
         <option value="$PROJECT_DIR$/src/problems" />
         <option value="$PROJECT_DIR$/src/PopulationGrowthCalculation.java" />
+        <option value="$PROJECT_DIR$/src/basic/PopulationGrowthCalculation.java" />
       </list>
     </option>
   </component>
@@ -99,6 +100,12 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -107,6 +114,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sharedboxultimate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/basic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -302,20 +314,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Maskify.java">
+    <entry file="file://$PROJECT_DIR$/src/basic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#939#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PopulationGrowthCalculation.java">
+    <entry file="file://$PROJECT_DIR$/src/basic/PopulationGrowthCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/Maskify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
