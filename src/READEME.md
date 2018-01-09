@@ -1,0 +1,1 @@
+**Maskify** : write a function maskify, which changes all but the last four characters into '#' and returns it.
