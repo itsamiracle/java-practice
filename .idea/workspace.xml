@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9bd0cc-7118-4d0d-a91b-54165cda656b" name="Default" comment="" />
+    <list default="true" id="3f9bd0cc-7118-4d0d-a91b-54165cda656b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/basic/README.md" afterPath="$PROJECT_DIR$/src/basic/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/basic/BinaryArrayToNumber.java" afterPath="$PROJECT_DIR$/src/basic/BinaryArrayToNumber.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +39,8 @@
       <file leaf-file-name="BinaryArrayToNumber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/basic/BinaryArrayToNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -472,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basic/BinaryArrayToNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding />
         </state>
       </provider>

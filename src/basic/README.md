@@ -8,3 +8,4 @@
 
 For example: `persistence(39) == 3 // because 3*9 = 27, 2*7 = 14, 1*4=4  and 4 has only one digit`
 
+**BinaryArrayToNumber** : Given an array of one's and zero's convert the equivalent binary value to an integer. Example: [0, 0, 0, 1] is treated as 0001 which is the binary representation of 1
